@@ -30,7 +30,7 @@ The program is **free to use, including for live performances**. Development is 
 ### MIDI and SoundFonts
 
 - Play MIDI backing tracks with **SoundFont (SF2)** support.
-- The **full SETUP** includes two essential General MIDI SoundFonts for getting started.
+- The **full SETUP** includes high quality General MIDI SoundFonts for getting started.
 - Manage MIDI channels, instruments, banks, volume, pan, mute/solo, and effects such as reverb and chorus.
 - Access MIDI input/output configuration and supported virtual-instrument options, depending on the installed hardware and plugins.
 
